@@ -1,0 +1,4 @@
+pandas
+nump
+tqdm
+openai
